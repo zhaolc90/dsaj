@@ -1,3 +1,6 @@
+// http://cslibrary.stanford.edu/110/BinaryTrees.html
+
+
 // Constructor for BST
 function BST() {
     this.root = null;
