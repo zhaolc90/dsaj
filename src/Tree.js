@@ -1,3 +1,4 @@
+// https://code.tutsplus.com/zh-hans/articles/data-structures-with-javascript-tree--cms-23393
 function Node(data) {
     this.data = data;
     this.parent = null;
